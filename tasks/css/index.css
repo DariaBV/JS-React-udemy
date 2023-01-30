@@ -1,0 +1,9 @@
+/* ex 17 */
+/* #first div[title="test"] {
+    background-color: red;
+} */
+
+
+div>div, .text {
+            background-color: red;
+        }
